@@ -1,1 +1,1 @@
-# JPMC-Virtual-Software-Internship
+# JPMC-Virtual-Programme
